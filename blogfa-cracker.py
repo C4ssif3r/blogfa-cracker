@@ -14,18 +14,17 @@ good luck and i hope because you cracking many blogfa acciunts
 import os
 
 try:
-    from colorama import Fore, init # for colors
-
+    from colorama import Fore, init 
 except:
     os.system('pip install colorama')
 # -------------------------------------------------
 try:
     import time
 except:
-    os.system('pip install time') # for sleep
+    os.system('pip install time') 
 # -------------------------------------------------
 try:
-    import requests as rq # for send req's
+    import requests as rq
 except:
     os.system('pip install requests')
 # -------------------------------------------------
@@ -40,7 +39,23 @@ os.system('clear')
 
 init() # from colorama lib
 # -------------------------------------------------
-'
+'''
+
+               _             _                 °              _             ',:'/¯/`:,   
+         ,·´/:::::'`:,   ,:´/::::'`:,'                     .´/: : :/:`;        /:/_/::::/';' 
+       '/  /:::::::::'`·/::/::::::::/'\                   /:/:_: /:::'i       /:'     '`:/::;‘
+       /,·'´ ¯¯'`·;:::/:;·´ ¯ '`·;/:::i                /·´     '`;:::;'      ;         ';:';‘
+     /            '`;':/            \:::';               i         'i::;       |         'i::i 
+   ,'               `'               ';:::i°             ';        'i::;°      ';        ;'::i 
+  ,'                                  ;::i‘'    ,. -.,   ';        ';::;       'i        'i::i' 
+  ;'       ,^,         ,:^,          'i::;°   /:::::/`:.,;       ';::;'        ;       'i::;' 
+ 'i        ;:::\       ;/   ',         'i:;'   /;:-:;/:::::'|       ;:/`;‘       ';       i:/'  
+ 'i       'i::/  \     /      ;        ;/   ,´      `·:;:·'       ;/'::/         ';     ;/ °  
+  ;      'i:/     `*'´       'i       ;/ °  ';                     `;/'           ';   / °    
+  '`.    ,'                   '.     /        '`·,           _,.-·'´ °            `'´       °
+     `*´                      `'*'´               '`'*^*'´¯    ”                  ‘         
+
+'''
 # -------------------------------------------------
 print (Fore.RED+'''
  __        _   _   ___ _            _  __   _   _       ___ __  
