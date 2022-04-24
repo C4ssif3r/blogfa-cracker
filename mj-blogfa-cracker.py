@@ -169,7 +169,7 @@ for __PASS__ in pas:
     _dta_ = blog.find_all('i')
     _data_ = str(_dta_)
 
-    ___CHECK_AUTHENTICATION___ = ("???? ???? ?? ?????? ???? ???? ???")
+    ___CHECK_AUTHENTICATION___ = ("کلمه عبور را اشتباه وارد کرده اید")
     # -------------------------------------------------
     if ___CHECK_AUTHENTICATION___ in _data_:
         
