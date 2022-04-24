@@ -18,7 +18,7 @@
 𝘊𝘰𝘮𝘮𝘢𝘯𝘥s : 
 
 #
-$ git clone https://github.com/C4ssif3r/blogfa-cracker/mj-blogfa-cracker.py
+$ git clone https://github.com/C4ssif3r/blogfa-cracker
 
 $ python mj-blogfa-cracker.py  
  
