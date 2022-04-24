@@ -16,7 +16,7 @@ Report BUG or problem to my telegram !
 import os
 
 try:
-    from colorama import Fore, init # for colors
+    from colorama import Fore, init 
 
 except:
     os.system('pip install colorama')
@@ -24,7 +24,7 @@ except:
 try:
     import time
 except:
-    os.system('pip install time') # for sleep
+    os.system('pip install time')
 # -------------------------------------------------
 try:
     import requests as rq # for send req's
@@ -40,7 +40,7 @@ import sys
 
 os.system('clear')
 
-init() # from colorama lib
+init()
 # -------------------------------------------------
 '''
 
