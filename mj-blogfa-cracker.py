@@ -7,7 +7,8 @@ __INSTAGRAM_ID__ = '@MJi_Devil'
 __GITHUB__ = 'https://github.com/C4ssif3r'
 __COMMENT__ = '''
 hello welcome to the blogfa cracker :)
-good luck and i hope because you cracking many blogfa acciunts 
+good luck and i hope because you cracking many blogfa accunts 
+Report BUG or problem to my telegram !
 '''
 # -------------------------------------------------
 # import mudules                                   |
