@@ -26,7 +26,9 @@
 
 
 $ ```git clone https://github.com/C4ssif3r/blogfa-cracker```
-$ ```python mj-blogfa-cracker.py  ```
+
+$ ```python mj-blogfa-cracker.py```
+
 (𝘵𝘢𝘳𝘨𝘦𝘵) 𝘺𝘰𝘶𝘳 𝘪𝘥 𝘵𝘢𝘳𝘨𝘦𝘵 !
 
 𝘩𝘰𝘸 𝘵𝘰 𝘧𝘪𝘯𝘥 𝘵𝘢𝘳𝘨𝘦𝘵 𝘪𝘥 ?
