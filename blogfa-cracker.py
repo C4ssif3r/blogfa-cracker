@@ -89,7 +89,7 @@ try:
 except:
     print (Fore.WHITE+'['+Fore.CYAN+' # '+Fore.WHITE+'] set target and pass list e:x >\n')
     time.sleep(0.8)
-    print ('launch >>> python mj-blogfa-cracker.py pass.txt target\n')
+    print (' how to launch >>> python mj-blogfa-cracker.py pass.txt target\n')
     time.sleep(0.6)
     print ('pass.txt == your pass list or patch ex: home/root/Desktop/mji.txt\n')
     time.sleep(0.5)
