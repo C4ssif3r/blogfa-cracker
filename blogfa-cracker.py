@@ -169,7 +169,7 @@ for __PASS__ in pas:
     if ___CHECK_AUTHENTICATION___ in _data_:
         
         print(Fore.WHITE+'['+Fore.RED+'*'+Fore.WHITE+'] pass NOT found '+Fore.RED+''+__PASS__+'\n')
-    if 'در حال حاضر به دلیل حفظ امنیت کاربران امکان ورود به بخش مدیریت را ندارید' in data:
+    if 'در حال حاضر به دلیل حفظ امنیت کاربران امکان ورود به بخش مدیریت را ندارید' in _data_:
         print(Fore.WHITE+'['+Fore.RED+'*'+Fore.WHITE+'] you banned by site !')
         print(Fore.WHITE+'['+Fore.RED+'*'+Fore.WHITE+'] Try again with a VPN !')
         sys.exit()
