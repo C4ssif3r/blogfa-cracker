@@ -110,7 +110,7 @@ if _CHEK_.status_code == 404:
     time.sleep(3)
     sys.exit()
 else:
-    print (Fore.WHITE+'['+Fore.GREEN+' * '+Fore.WHITE+'] User ['+Fore.GREEN+tar+Fore.WHITE+'] FOUND on '+Fore.WHITE+'['+Fore.GREEN+'blogfa.com'+Fore.WHITE+'] SKIPPIMG ... !!! ')
+    print (Fore.WHITE+'['+Fore.GREEN+' * '+Fore.WHITE+'] User ['+Fore.GREEN+tar+Fore.WHITE+'] FOUND on '+Fore.WHITE+'['+Fore.GREEN+'blogfa.com'+Fore.WHITE+'] SKIPPING ... !!! ')
     print('')
 # -------------------------------------------------
 
