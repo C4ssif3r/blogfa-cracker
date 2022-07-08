@@ -6,13 +6,13 @@
 
 نکته : اگر پیغام اینکه شما بن شدید را دریافت کردید از فیلتر شکن استفاده کنید !
 
-# screenshot 1
+shot 1
 
-> ![Picsart_22-05-02_22-28-39-305](https://user-images.githubusercontent.com/79422726/166300008-58e4b4dd-5b8e-479b-b5fe-2a986e70db7a.jpg)
+ ![Picsart_22-05-02_22-28-39-305](https://user-images.githubusercontent.com/79422726/166300008-58e4b4dd-5b8e-479b-b5fe-2a986e70db7a.jpg)
 
-# screenshot 2
+shot 2
 
-> ![Picsart_22-05-02_22-25-51-222](https://user-images.githubusercontent.com/79422726/166300161-4fa6ace4-bcbd-473d-8e89-f12ad446fea0.jpg)
+ ![Picsart_22-05-02_22-25-51-222](https://user-images.githubusercontent.com/79422726/166300161-4fa6ace4-bcbd-473d-8e89-f12ad446fea0.jpg)
 
 
 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗯𝗹𝗼𝗴𝗳𝗮[.𝗶𝗿] 𝗰𝗿𝗮𝗰𝗸𝗲𝗿 𝘁𝗼𝗼𝗹 !
@@ -30,7 +30,7 @@
 1. 𝘚𝘛𝘌𝘗 1[𝘰𝘯𝘦]:
 
 
-'𝘥𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘵𝘰𝘰𝘭 & 𝘊𝘰𝘮𝘮𝘢𝘯𝘥s : '
+𝘥𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘵𝘰𝘰𝘭 & 𝘊𝘰𝘮𝘮𝘢𝘯𝘥s :
 
 
 $ ```git clone https://github.com/C4ssif3r/blogfa-cracker```
