@@ -1,4 +1,7 @@
-# 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 [𝔪𝔧𝔦]
+[![](https://img.shields.io/static/v1?label=Owner&message=Mji~DarkPwn&color=black)](http://127.0.0.1:9050) [![](https://img.shields.io/static/v1?label=python&message=3.*&color=yellow)](http://127.0.0.1:9050) ![GithubAllStars](https://img.shields.io/github/stars/C4ssif3r/blogfa-cracker?style=social)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+### 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 [𝔪𝔧𝔦]
  این ابزار فقط روی لینوکس یا کالی نت هانتر کار میکنه 📌
  روی ترموکس‌ چون از
  UTF-8 
